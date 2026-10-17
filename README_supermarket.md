@@ -1,9 +1,12 @@
 # Supermarket Sales - Cleaned Dataset
 
 File: 23L_0589_A2_supermarket_cleaned.csv
+
 Version: v1.0
+
 Date: 18 October 2026
-Author: Ayesha Shahid (23L-0589)
+
+Author: Ayesha Shahid
 
 ## Original source
 Supermarket Sales file provided by the instructor (supermarket_Sales.csv).
