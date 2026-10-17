@@ -1,9 +1,12 @@
 # Netflix Titles - Cleaned Dataset
 
 File: 23L_0589_A2_netflix_cleaned.csv
+
 Version: v1.0
+
 Date: 18 October 2026
-Author: Ayesha Shahid (23L-0589)
+
+Author: Ayesha Shahid
 
 ## Original source
 Netflix Movies and TV Shows dataset on Kaggle (netflix_titles.csv):
